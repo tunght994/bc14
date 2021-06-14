@@ -1,0 +1,14 @@
+# Một số lệnh sử dụng với terminal
+-cd : lệnh di chuyển cấp thư mục , Eg : cd Desktop , cd baitap
+-ls : liệt kê tất cả file và thư mục có trong thư mục hiện tại
+
+# Các câu lệnh của git
+- git clone ..đường dẫn trên github.. ==> Tải source code từ github về máy tính
+
+- git status ==> kiểm tra trạng thái của các file có sự thay đổi or file mới
+
+- git add <tên file>
+==> xác nhận các file sẽ được thêm mới or cập nhật
+
+- git add .
+==> xác nhận tất cả các file sẽ được thêm mới or cập nhật
