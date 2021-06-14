@@ -18,3 +18,9 @@
 
 - git push 
 ==> Push những thay đổi đã được commit từ local responsitory ==> remote responsitory
+
+- git checkout -b <branch-name>
+==> Tạo ra 1 branch mới từ branch hiện tại và chuyển sang branch mới (ví dụ : branch hiện tại là master sẽ tạo ra 1 branch mới là feature)
+
+- git checkout <branch-name>
+==> Chuyển sang <branch-name> mà mình muốn chuyển
