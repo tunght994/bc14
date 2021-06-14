@@ -25,8 +25,16 @@
 - git checkout <branch-name>
 ==> Chuyển sang <branch-name> mà mình muốn chuyển
 
-- git push -u origin feature-a
+- git push -u origin <branch-name>
 ==> pull branch trên github
 
 - git pull 
 ==> kéo những commit mới nhất của remote branch về local branch
+
+### Cách fix đụng độ code (conflict) khi merge feature-a vào master
+B1: git checkout master => chuyển về branch master
+B2: git pull => Kéo code branch master từ remote về local
+B3: git checkout feature-a => Chuyển về branch feature-a
+B4: git merge master => Gộp những commit mới nhất của master vào branch feature-a
+B5: Fix conflict trên vscode
+B6: Add, commit và push feature-a lên remote
