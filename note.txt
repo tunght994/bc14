@@ -13,5 +13,8 @@
 - git add .
 ==> xác nhận tất cả các file sẽ được thêm mới or cập nhật
 
-// bị gì á nó ko hiện giống như thầy 
-// bạn làm tới git push dung k Daj dungd  r a
+- git commit -m "message"
+==> xác nhận những file đã thay đổi ở phân vùng staging , đưa vào phân vùng local responsitory và kèm theo 1 message
+
+- git push 
+==> Push những thay đổi đã được commit từ local responsitory ==> remote responsitory
