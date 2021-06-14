@@ -12,3 +12,6 @@
 
 - git add .
 ==> xác nhận tất cả các file sẽ được thêm mới or cập nhật
+
+// bị gì á nó ko hiện giống như thầy 
+// bạn làm tới git push dung k Daj dungd  r a
