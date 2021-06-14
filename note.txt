@@ -24,3 +24,9 @@
 
 - git checkout <branch-name>
 ==> Chuyển sang <branch-name> mà mình muốn chuyển
+
+- git push -u origin feature-a
+==> pull branch trên github
+
+- git pull 
+==> kéo những commit mới nhất của remote branch về local branch
